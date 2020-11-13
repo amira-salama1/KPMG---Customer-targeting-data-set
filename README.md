@@ -28,3 +28,5 @@ Develop a dashboard that can be presented to the client. Displaying data summary
 Maximum of 3 dashboard views/tabs, creativity in layout and presentation is welcome.  
 
 Presentation should specify who Sprocket Central Pty Ltd’s marketing team should be targeting out of the new 1000 customer list as well as the broader market segment to reach out to. 
+
+__Link to VI__:https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship
